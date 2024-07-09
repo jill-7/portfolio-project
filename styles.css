@@ -1,7 +1,38 @@
-h1 {
-  font-family: 'Poppins-Bold';
+
+@font-face {
+  font-family: 'Poppins';
+  src: url("images/Poppins-Bold.ttf");
 }
 @font-face {
-  font-family: 'Poppins-Bold';
-  src: url("images/Poppins-Bold.ttf");
+  font-family: 'PlayfairDisplay';
+  src: url("images/PlayfairDisplay-VariableFont_wght.ttf");
+}
+.hero {
+  height: 70vh;
+  width: 100vw;
+}
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+.hero .container h4 {
+  font-size: 36px;
+  font-weight: bold;
+  font-family: 'Poppins';
+}
+.hero .container h1 {
+  font-size: 96px;
+  font-weight: bold;
+  font-family: 'PlayfairDisplay';
+}
+.hero .container p {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 2;
+  font-family: 'PlayfairDisplay';
+}
+.btn {
+  color: white;
+  padding: 15px 30px;
+  background-color: #6c63ff;
 }
