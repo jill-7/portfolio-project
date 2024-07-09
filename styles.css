@@ -68,6 +68,9 @@ body {
   line-height: 27px;
   font-weight: 600;
 }
+.home {
+  color: #6c63ff;
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 60px;
