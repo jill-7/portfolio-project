@@ -89,3 +89,31 @@ body {
     font-size: 40px;
   }
 }
+ /*ABOUT*/
+.image {
+  height: 500px;
+  border-radius: 6px;
+}
+.container {
+  padding: 120px 20px;
+}
+.about-h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+.about-h2 {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Poppins';
+  margin-bottom: 1.5rem;
+}
+.about-p {
+  font-family: 'Poppins-regular';
+  line-height: 30px;
+  font-size: 16px;
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'Poppins-regular';
+  src: url("images/Poppins-Regular.ttf");
+}
