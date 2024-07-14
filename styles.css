@@ -166,3 +166,17 @@ body {
   line-height: 1.5;
   
 }
+
+/*all pages*/
+.active {
+  color: #6c63ff !important;
+}
+.nav-link {
+  font-size: 18px;
+}
+.img-fluid {
+  padding: 10px;
+}
+.bg-body-tertiary {
+  background-color: white !important;
+}
