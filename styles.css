@@ -118,7 +118,7 @@ body {
   font-family: 'Poppins-regular';
   src: url("images/Poppins-Regular.ttf");
 }
-@media (max-width: 900px) {
+@media (max-width: 768px) {
   .image {
     margin-top: 20px;
   }
