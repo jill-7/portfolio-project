@@ -96,7 +96,7 @@ body {
   border-radius: 6px;
 }
 .container {
-  padding: 120px 20px;
+  padding: 40px 20px;
 }
 .about-h1 {
   font-size: 64px;
@@ -231,4 +231,8 @@ footer .email:hover {
     display: flex;
   }
 
+}
+.text-center {
+  font-size: 18px;
+  font-family: 'Poppins-regular';
 }
